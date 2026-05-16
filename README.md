@@ -25,3 +25,5 @@ git config --global user.email "kevinjimenezd97@gmail.com"
 En la parte lateral izquierda, click en source control debajo de la lupa
 
 Escribir un mensaje obligatorio y darle en el boton commit cuando hay cambios
+
+Nos saldra una ventana y tenemos que decirle en la opcion Yes
