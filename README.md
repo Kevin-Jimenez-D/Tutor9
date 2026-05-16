@@ -1,33 +1,29 @@
 # Pasos para cargar el GitHub
 
-Primero ir a la pagina de GitHub
+Ir a GitHub
 
 https://github.com/
 
-Correo: kevin@gmail.com
+Correo: 
 
-Nombre de usuario en Github: Kevin-Jimenez-D
+Nombre de usuario: 
 
-# Ahora ir a visual a la carpeta donde estamos trabajando
+Contraseña: 
 
-File -> Open Folder -> Buscan la carpeta con su nombre
+Ahora vamos a Visual Studio Code y vamos a la carpeta donde estamos trabajando
 
-Verificar que no este un usuario diferente de GitHub registrado, en la parte inferior izquierda, seccion perfil
+File y open folder y buscan la carpeta con su nombre
 
-Si hay otro usuario, cerrarle la sesion, ir al nombre de usuario en GitHub y cerrar sesion o Sign out
+Verificar que no haya usuario diferente a nosotros regitrado, en la parte inferior izquierda
 
-Invocar la terminal para las credenciales, parte superior terminal->New Terminal
+Si hay otro usuario, cerrarle la sesion, ir al nombre de GitHub y cerrar sesion o sign out
+
+Invocar la terminal para credenciales, parte superior, terminal y New Terminal
 
 git config --global user.name "Kevin-Jimenez-D" 
 
 git config --global user.email "kevinjimenezd97@gmail.com"
 
-En la parte lateral izquierda, click en source control debajo de la lupa
+Parte lateral izquierda, click debajo de la lupa
 
-Escribir un mensaje obligatorio y darle en el boton commit cuando hay cambios
-
-Nos saldra una ventana y tenemos que decirle en la opcion Yes o si
-
-Si nos pregunta si subirlo al origin main, decirle que yes o si.
-
-Sincronizar archivos o subirlos al repositorio
+Escribir MENSAJE OBLIGATORIO y darle en el boton de commit
